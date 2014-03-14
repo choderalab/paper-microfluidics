@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MeasurementResultData Date="2014-03-14T09:36:18.1909206-04:00">
+  <!--Plate-->
+  <Plate>1</Plate>
+  <!--Header-->
+  <Header Application="Tecan.At.XFluor, Version=1.10.4.0, Culture=neutral, PublicKeyToken=d0a0a6765a3d0b05">
+    <Software_Versions>
+      <Version>Tecan i-control , 1.10.4.0</Version>
+      <Version>Tecan.At.Common, 3.4.2.0</Version>
+      <Version>Tecan.At.Common.DocumentManagement, 3.4.2.0</Version>
+      <Version>Tecan.At.Common.DocumentManagement.Reader, 3.2.3.0</Version>
+      <Version>Tecan.At.Common.MCS, 3.4.2.0</Version>
+      <Version>Tecan.At.Common.Results, 3.4.2.0</Version>
+      <Version>Tecan.At.Common.UI, 3.4.2.0</Version>
+      <Version>Tecan.At.Communication.Common, 3.4.2.0</Version>
+      <Version>Tecan.At.Communication.Port.IP, 3.4.2.0</Version>
+      <Version>Tecan.At.Communication.Port.RS232, 3.4.2.0</Version>
+      <Version>Tecan.At.Communication.Port.SIM.Common, 3.4.2.0</Version>
+      <Version>Tecan.At.Communication.Port.USB, 3.4.2.0</Version>
+      <Version>Tecan.At.Communication.Server, 3.4.2.0</Version>
+      <Version>Tecan.At.Communication.SIM.AMR, 3.2.3.0</Version>
+      <Version>Tecan.At.Communication.SIM.AMRPlus, 3.2.3.0</Version>
+      <Version>Tecan.At.Communication.SIM.Connect, 3.4.2.0</Version>
+      <Version>Tecan.At.Communication.SIM.GeniosUltra, 3.2.3.0</Version>
+      <Version>Tecan.At.Communication.SIM.Safire3, 3.2.3.0</Version>
+      <Version>Tecan.At.Communication.SIM.Safire3Pro, 3.2.3.0</Version>
+      <Version>Tecan.At.Communication.SIM.SunriseMini, 3.2.3.0</Version>
+      <Version>Tecan.At.Instrument.Common, 3.4.2.0</Version>
+      <Version>Tecan.At.Instrument.Common.GCM, 3.4.2.0</Version>
+      <Version>Tecan.At.Instrument.Common.Reader, 3.2.3.0</Version>
+      <Version>Tecan.At.Instrument.Common.Stacker, 3.4.2.0</Version>
+      <Version>Tecan.At.Instrument.Gas.GCM, 3.4.2.0</Version>
+      <Version>Tecan.At.Instrument.GCM.Server, 3.4.2.0</Version>
+      <Version>Tecan.At.Instrument.Reader.AMR, 3.2.3.0</Version>
+      <Version>Tecan.At.Instrument.Reader.AMRPlus, 3.2.3.0</Version>
+      <Version>Tecan.At.Instrument.Reader.GeniosUltra, 3.2.3.0</Version>
+      <Version>Tecan.At.Instrument.Reader.Safire3, 3.2.3.0</Version>
+      <Version>Tecan.At.Instrument.Reader.Safire3Pro, 3.2.3.0</Version>
+      <Version>Tecan.At.Instrument.Reader.SunriseMini, 3.2.3.0</Version>
+      <Version>Tecan.At.Instrument.Server, 3.4.2.0</Version>
+      <Version>Tecan.At.Instrument.Stacker.Connect, 3.4.2.0</Version>
+      <Version>Tecan.At.Instrument.Stacker.Server, 3.4.2.0</Version>
+      <Version>Tecan.At.Measurement.BuiltInTest.Common, 3.2.3.0</Version>
+      <Version>Tecan.At.Measurement.Common, 3.2.3.0</Version>
+      <Version>Tecan.At.Measurement.Server, 3.2.3.0</Version>
+      <Version>Tecan.At.XFluor, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.Connect.Reader, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.Core, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.Device, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.Device.AMR, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.Device.AMRPlus, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.Device.GeniosUltra, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.Device.Reader, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.Device.Safire3, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.Device.Safire3Pro, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.Device.SunriseMini, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.ExcelOutput, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.NanoQuant, 1.10.4.0</Version>
+      <Version>Tecan.At.XFluor.ReaderEditor, 1.10.4.0</Version>
+    </Software_Versions>
+    <Instrument>
+      <Name>infinite</Name>
+      <SerialNumber>12345</SerialNumber>
+    </Instrument>
+    <Hardware_Versions>
+      <Version>Firmware: V_1.05_11/2011_S3LCE_ALPHA (Nov  3 2011/09.27.24)</Version>
+      <Version>MAI, V_1.05_11/2011_S3LCE_ALPHA (Nov  3 2011/09.27.24)</Version>
+      <Version>MEX, V 1.20 Safire2 MCR  (V 1.20 Safire2 MCR )</Version>
+      <Version>MEM, V 1.20 Safire2 MCR  (V 1.20 Safire2 MCR )</Version>
+      <Version>FPO, V_1.03_Safire2 FP  (V_1.03_Safire2 FP )</Version>
+      <Version>ABS, V 1.00 MCR Abs 4 Channel (V 1.00 MCR Abs 4 Channel)</Version>
+      <Version>LUM, V_1.04_11/2011_LUMINESCENCE (Nov 02 2011/17.53.34)</Version>
+      <Version>BCR, V_1.00_02/2008_S3FTCAN</Version>
+      <Version>INA, V_1.05_11/2011_S3LCE_ALPHA (Nov  3 2011/09.27.24)</Version>
+      <Version>INB, V_1.05_11/2011_S3LCE_ALPHA (Nov  3 2011/09.27.24)</Version>
+      <Version>TCAN, V_1.00_02/2008_S3FTCAN (Feb 21 2008/17.19.16)</Version>
+    </Hardware_Versions>
+    <Parameters>
+      <Parameter Name="System" Value="System" />
+      <Parameter Name="User" Value="Tecan i-control" />
+      <Parameter Name="Plate" Value="Corning 96 Flat Bottom clear Polystyrol Cat. No.: 3679 [COR96fc half area UV transparent.pdfx]" />
+    </Parameters>
+  </Header>
+  <Script><TecanMeasurement id="1" class="" xmlns="tecan.at.schema.documents"><MeasurementManualCycle id="2" number="1" type="Standard"><CyclePlate id="3" file="COR96fc half area UV transparent" plateWithCover="False"><PlateRange id="0" range="A1~H12" auto="true"><Shaking id="4" mode="Orbital" time="PT30S" frequency="306000000" amplitude="2000" maxDeviation="PT0S" settleTime="PT0S" /></PlateRange><PlateRange id="5" range="A1:A1" auto="false"><MeasurementFluoInt readingMode="Top" id="6" mode="Normal" type="" name="FluoInt" longname="" description=""><Well id="7" auto="true"><MeasurementReading id="8" name="" beamDiameter="0" beamGridType="Single" beamGridSize="0" beamEdgeDistance=""><ReadingLabel id="9" name="Label1" scanType="ScanEM" refID="0"><ReadingSettings number="50" rate="2500" /><ReadingGain type="" gain="100" optimalGainPercentage="0" automaticGain="False" mode="Manual" /><ReadingTime integrationTime="20" lagTime="0" readDelay="0" flash="0" dark="0" excitationTime="0" /><ReadingFilter id="10" type="Ex" wavelength="2800" bandwidth="25" attenuation="0" usage="FI" /><ReadingFilter id="11" type="Em" wavelength="3000~8000:50" bandwidth="50" attenuation="0" usage="FI" /><ReadingZPosition mode="Manual" zPosition="20000" /></ReadingLabel></MeasurementReading></Well></MeasurementFluoInt></PlateRange></CyclePlate></MeasurementManualCycle><MeasurementInfo id="0" description=""><ScriptTemplateSettings id="0"><ScriptTemplateGeneralSettings id="0" Title="" Group="" Info="" Image="" /><ScriptTemplateDescriptionSettings id="0" Internal="" External="" IsExternal="False" /></ScriptTemplateSettings></MeasurementInfo></TecanMeasurement></Script>
+  <!--Section-->
+  <Section Name="Label1">
+    <Time_Start>2014-03-14T09:36:51.3565789-04:00</Time_Start>
+    <Parameters>
+      <Parameter Name="Mode" Value="Fluorescence Top Reading" />
+      <Parameter Name="Emission Wavelength Start" Value="300" Unit="nm" />
+      <Parameter Name="Emission Wavelength End" Value="800" Unit="nm" />
+      <Parameter Name="Emission Wavelength Step Size" Value="5" Unit="nm" />
+      <Parameter Name="Emission Scan Number" Value="101" />
+      <Parameter Name="Excitation Wavelength" Value="280" Unit="nm" />
+      <Parameter Name="Bandwidth (Em)" Value="280...850: 5 nm" />
+      <Parameter Name="Bandwidth (Ex) (Range 1)" Value="230...300: 2.5 nm" />
+      <Parameter Name="Bandwidth (Ex) (Range 2)" Value="301...850: 5 nm" />
+      <Parameter Name="Gain" Value="100" Unit="Manual" />
+      <Parameter Name="Number of Flashes" Value="50" />
+      <Parameter Name="Flash Frequency" Value="400" Unit="Hz" />
+      <Parameter Name="Integration Time" Value="20" Unit="µs" />
+      <Parameter Name="Lag Time" Value="0" Unit="µs" />
+      <Parameter Name="Settle Time" Value="0" Unit="ms" />
+      <Parameter Name="Z-Position (Manual)" Value="20000" Unit="µm" />
+      <Parameter Name="Part of Plate" Value="A1-A1" />
+    </Parameters>
+    <Data Cycle="1" Temperature="0">
+      <Well Pos="A1" Type="Scan">
+        <Scan WL="300" LabelId="1">433</Scan>
+        <Scan WL="305" LabelId="1">790</Scan>
+        <Scan WL="310" LabelId="1">1565</Scan>
+        <Scan WL="315" LabelId="1">1964</Scan>
+        <Scan WL="320" LabelId="1">2163</Scan>
+        <Scan WL="325" LabelId="1">2018</Scan>
+        <Scan WL="330" LabelId="1">1771</Scan>
+        <Scan WL="335" LabelId="1">1369</Scan>
+        <Scan WL="340" LabelId="1">1041</Scan>
+        <Scan WL="345" LabelId="1">779</Scan>
+        <Scan WL="350" LabelId="1">581</Scan>
+        <Scan WL="355" LabelId="1">432</Scan>
+        <Scan WL="360" LabelId="1">301</Scan>
+        <Scan WL="365" LabelId="1">223</Scan>
+        <Scan WL="370" LabelId="1">154</Scan>
+        <Scan WL="375" LabelId="1">100</Scan>
+        <Scan WL="380" LabelId="1">78</Scan>
+        <Scan WL="385" LabelId="1">48</Scan>
+        <Scan WL="390" LabelId="1">33</Scan>
+        <Scan WL="395" LabelId="1">27</Scan>
+        <Scan WL="400" LabelId="1">27</Scan>
+        <Scan WL="405" LabelId="1">25</Scan>
+        <Scan WL="410" LabelId="1">24</Scan>
+        <Scan WL="415" LabelId="1">26</Scan>
+        <Scan WL="420" LabelId="1">30</Scan>
+        <Scan WL="425" LabelId="1">37</Scan>
+        <Scan WL="430" LabelId="1">38</Scan>
+        <Scan WL="435" LabelId="1">52</Scan>
+        <Scan WL="440" LabelId="1">57</Scan>
+        <Scan WL="445" LabelId="1">66</Scan>
+        <Scan WL="450" LabelId="1">71</Scan>
+        <Scan WL="455" LabelId="1">80</Scan>
+        <Scan WL="460" LabelId="1">78</Scan>
+        <Scan WL="465" LabelId="1">86</Scan>
+        <Scan WL="470" LabelId="1">99</Scan>
+        <Scan WL="475" LabelId="1">101</Scan>
+        <Scan WL="480" LabelId="1">103</Scan>
+        <Scan WL="485" LabelId="1">100</Scan>
+        <Scan WL="490" LabelId="1">100</Scan>
+        <Scan WL="495" LabelId="1">96</Scan>
+        <Scan WL="500" LabelId="1">97</Scan>
+        <Scan WL="505" LabelId="1">94</Scan>
+        <Scan WL="510" LabelId="1">87</Scan>
+        <Scan WL="515" LabelId="1">81</Scan>
+        <Scan WL="520" LabelId="1">80</Scan>
+        <Scan WL="525" LabelId="1">74</Scan>
+        <Scan WL="530" LabelId="1">65</Scan>
+        <Scan WL="535" LabelId="1">64</Scan>
+        <Scan WL="540" LabelId="1">60</Scan>
+        <Scan WL="545" LabelId="1">52</Scan>
+        <Scan WL="550" LabelId="1">51</Scan>
+        <Scan WL="555" LabelId="1">46</Scan>
+        <Scan WL="560" LabelId="1">49</Scan>
+        <Scan WL="565" LabelId="1">40</Scan>
+        <Scan WL="570" LabelId="1">35</Scan>
+        <Scan WL="575" LabelId="1">33</Scan>
+        <Scan WL="580" LabelId="1">29</Scan>
+        <Scan WL="585" LabelId="1">27</Scan>
+        <Scan WL="590" LabelId="1">24</Scan>
+        <Scan WL="595" LabelId="1">23</Scan>
+        <Scan WL="600" LabelId="1">19</Scan>
+        <Scan WL="605" LabelId="1">20</Scan>
+        <Scan WL="610" LabelId="1">18</Scan>
+        <Scan WL="615" LabelId="1">13</Scan>
+        <Scan WL="620" LabelId="1">12</Scan>
+        <Scan WL="625" LabelId="1">10</Scan>
+        <Scan WL="630" LabelId="1">9</Scan>
+        <Scan WL="635" LabelId="1">9</Scan>
+        <Scan WL="640" LabelId="1">9</Scan>
+        <Scan WL="645" LabelId="1">7</Scan>
+        <Scan WL="650" LabelId="1">5</Scan>
+        <Scan WL="655" LabelId="1">5</Scan>
+        <Scan WL="660" LabelId="1">5</Scan>
+        <Scan WL="665" LabelId="1">5</Scan>
+        <Scan WL="670" LabelId="1">6</Scan>
+        <Scan WL="675" LabelId="1">3</Scan>
+        <Scan WL="680" LabelId="1">3</Scan>
+        <Scan WL="685" LabelId="1">3</Scan>
+        <Scan WL="690" LabelId="1">3</Scan>
+        <Scan WL="695" LabelId="1">4</Scan>
+        <Scan WL="700" LabelId="1">4</Scan>
+        <Scan WL="705" LabelId="1">0</Scan>
+        <Scan WL="710" LabelId="1">4</Scan>
+        <Scan WL="715" LabelId="1">0</Scan>
+        <Scan WL="720" LabelId="1">3</Scan>
+        <Scan WL="725" LabelId="1">0</Scan>
+        <Scan WL="730" LabelId="1">0</Scan>
+        <Scan WL="735" LabelId="1">0</Scan>
+        <Scan WL="740" LabelId="1">0</Scan>
+        <Scan WL="745" LabelId="1">0</Scan>
+        <Scan WL="750" LabelId="1">0</Scan>
+        <Scan WL="755" LabelId="1">0</Scan>
+        <Scan WL="760" LabelId="1">0</Scan>
+        <Scan WL="765" LabelId="1">0</Scan>
+        <Scan WL="770" LabelId="1">0</Scan>
+        <Scan WL="775" LabelId="1">0</Scan>
+        <Scan WL="780" LabelId="1">0</Scan>
+        <Scan WL="785" LabelId="1">0</Scan>
+        <Scan WL="790" LabelId="1">0</Scan>
+        <Scan WL="795" LabelId="1">0</Scan>
+        <Scan WL="800" LabelId="1">0</Scan>
+      </Well>
+    </Data>
+    <Time_End>2014-03-14T09:37:21.3554316-04:00</Time_End>
+  </Section>
+</MeasurementResultData>
